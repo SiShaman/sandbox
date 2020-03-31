@@ -12,3 +12,4 @@ default	15:07:58.276321-0400	runningboardd	Assertion 443-228-3009 (target:execut
 default	15:07:58.277070-0400	runningboardd	Acquiring assertion targeting executable<vmware-view(505)> from originator [daemon<com.apple.coreservices.launchservicesd>:228] with description <RBSAssertionDescriptor; foregroundApp:13376; ID: 443-228-3010; target: 13376> attributes = {
     <RBSDomainAttribute: 0x7f93d860d130; domain: com.apple.launchservicesd; name: RoleUserInteractiveNonFocal; sourceEnvironment: 0x0>;
 }
+Adding one line to the end
