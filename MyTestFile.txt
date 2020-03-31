@@ -1,0 +1,14 @@
+default	15:07:56.460992-0400	CoreServicesUIAgent	LAUNCHING:0x0-0x3e83e8 VMware Horizon Client foreground=1 bringForward=1 seed=1205 userActivityCount=0
+default	15:07:58.177573-0400	distnoted	register name: com.apple.sharedfilelist.change object: com.apple.LSSharedFileList.ApplicationRecentDocuments/com.vmware.horizon token: f4a07 pid: 848
+default	15:07:58.172054-0400	loginwindow	-[PersistentAppsSupport applicationReady:] | App: VMware Horizon Client, ready, updating active tracking timer
+default	15:07:58.172131-0400	loginwindow	-[ApplicationManager checkInAppContext:eventData:] | ApplicationManager: Checked in app : VMware Horizon Client
+default	15:07:58.274091-0400	runningboardd	Resolved pid 13376 to [executable<vmware-view(505)>:13376]
+default	15:07:58.275604-0400	runningboardd	[executable<vmware-view(505)>:13376] This process will not be managed.
+default	15:07:58.275631-0400	runningboardd	Now tracking process: [executable<vmware-view(505)>:13376]
+default	15:07:58.276199-0400	runningboardd	Acquiring assertion targeting executable<vmware-view(505)> from originator [daemon<com.apple.coreservices.launchservicesd>:228] with description <RBSAssertionDescriptor; foregroundApp:13376; ID: 443-228-3009; target: 13376> attributes = {
+    <RBSDomainAttribute: 0x7f93d8420190; domain: com.apple.launchservicesd; name: RoleUserInteractiveNonFocal; sourceEnvironment: 0x0>;
+}
+default	15:07:58.276321-0400	runningboardd	Assertion 443-228-3009 (target:executable<vmware-view(505)>) will be created as active
+default	15:07:58.277070-0400	runningboardd	Acquiring assertion targeting executable<vmware-view(505)> from originator [daemon<com.apple.coreservices.launchservicesd>:228] with description <RBSAssertionDescriptor; foregroundApp:13376; ID: 443-228-3010; target: 13376> attributes = {
+    <RBSDomainAttribute: 0x7f93d860d130; domain: com.apple.launchservicesd; name: RoleUserInteractiveNonFocal; sourceEnvironment: 0x0>;
+}
